@@ -1,7 +1,7 @@
 ## Hello, I am Meltz 👋
 
 
-- 🔭 I’m currently working on the backend.
+- 🔭 I’m currently working on backend side.
 - 🌱 I’m currently learning React and React Native.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Hot Dogs are nice.
