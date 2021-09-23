@@ -5,12 +5,6 @@
 - 🌱 I’m currently learning React and React Native.
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: Hot Dogs are nice.
-
-<div align="center">
-  <a href="https://github.com/meltzdev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=meltzdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meltzdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
 ##
   
