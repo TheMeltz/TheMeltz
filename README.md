@@ -1,10 +1,8 @@
 ## Hello, I am Meltz 👋
 
 
-- 🔭 I’m currently working with Next.js(Framework), Node.Js, HTML5, CSS3, Lua and Javascript!
-- 🌱 I’m currently learning React and React Native.
+- 🔭 I’m currently working with Knit Framework
 - 😄 Pronouns: He/him.
-- ⚡ Fun fact: Hot Dogs are nice.
   
 <div align="center">
   <a href="https://github.com/meltzdev">
