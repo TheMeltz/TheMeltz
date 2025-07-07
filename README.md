@@ -1,7 +1,8 @@
 ## Hello, I am Meltz 👋
 
 
-- 🔭 I’m currently learning Python Artificial Inteligence Libraries (PyTorch and Tensorflow)
+- 🔭 I’m currently learning Calculus and Linear Algebra.
+- Programmer since 2019
 - 😄 Pronouns: He/him
   
 <div align="center">
