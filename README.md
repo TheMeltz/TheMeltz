@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently learning Calculus and Linear Algebra.
-- Programmer since 2019
+- PT-BR DevForum Community Ambassador
 - 😄 Pronouns: He/him
   
 <div align="center">
